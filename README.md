@@ -24,6 +24,7 @@ The script '**dbNew**' consists of the code to
 #### Web
 The script '**app**' consists of the code to **Upload** and **Search** videos.
 
+
 ### Folder Structure
 The folder '**script**' consists of the scripts for landmark retrieval.
 
